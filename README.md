@@ -123,17 +123,6 @@ Ollama (qwen2.5:7b) が回答生成
     ▼
 チャットUIに回答表示
 ```
-表示画面例
-<img width="1459" height="396" alt="image" src="https://github.com/user-attachments/assets/b08ff23d-1402-4db8-a064-caaca0916416" />
-
-<img width="940" height="679" alt="image" src="https://github.com/user-attachments/assets/798d11c9-f93b-4bb8-9556-68a8f8a66507" />
-
-<img width="450" height="760" alt="image" src="https://github.com/user-attachments/assets/c128c222-987c-4547-8432-1e1161a67779" />
-
-<img width="937" height="317" alt="image" src="https://github.com/user-attachments/assets/d50cc708-dae4-4312-b273-10c1a94382c3" />
-
-
-
 ---
 
 ## 機能一覧
@@ -149,17 +138,24 @@ Ollama (qwen2.5:7b) が回答生成
 - ノードタイプ別の色分け（RadialGradient + Glow フィルター）
 - ノードクリックで接続関係の詳細表示
 - エッジラベルの曲線パス表示（二次ベジェ曲線）
+  <img width="1458" height="402" alt="image" src="https://github.com/user-attachments/assets/9f74c3c0-15c8-4b91-9136-fc228d8c0630" />
+
+<img width="939" height="722" alt="image" src="https://github.com/user-attachments/assets/15ce4bd3-94a2-4588-921a-56e5fe6029f8" />
+
 
 ### GraphRAG Q&A
 - キーワードベースのサブグラフ検索（1-hop 隣接ノード展開）
 - グラフコンテキスト注入によるRAG回答
 - グラフ外情報への回答制限（ハルシネーション抑制）
+  <img width="466" height="779" alt="image" src="https://github.com/user-attachments/assets/460c0a7b-e859-4288-ad99-9a426be57b23" />
+
 
 ### グラフ分析（NetworkX）
 - 次数中心性 (degree centrality) TOP5 ランキング
 - グラフ密度 (density)
 - 弱連結成分数 (weakly connected components)
 - ノード数・エッジ数リアルタイム表示
+<img width="919" height="255" alt="image" src="https://github.com/user-attachments/assets/d2c7487b-0c8e-4223-865f-b01140710557" />
 
 ---
 
