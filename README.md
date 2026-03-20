@@ -138,7 +138,7 @@ Ollama (qwen2.5:7b) が回答生成
 - ノードタイプ別の色分け（RadialGradient + Glow フィルター）
 - ノードクリックで接続関係の詳細表示
 - エッジラベルの曲線パス表示（二次ベジェ曲線）
-  <img width="1458" height="402" alt="image" src="https://github.com/user-attachments/assets/9f74c3c0-15c8-4b91-9136-fc228d8c0630" />
+<img width="1458" height="402" alt="image" src="https://github.com/user-attachments/assets/9f74c3c0-15c8-4b91-9136-fc228d8c0630" />
 
 <img width="939" height="722" alt="image" src="https://github.com/user-attachments/assets/15ce4bd3-94a2-4588-921a-56e5fe6029f8" />
 
