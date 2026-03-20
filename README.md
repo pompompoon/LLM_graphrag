@@ -123,6 +123,16 @@ Ollama (qwen2.5:7b) が回答生成
     ▼
 チャットUIに回答表示
 ```
+表示画面例
+<img width="1459" height="396" alt="image" src="https://github.com/user-attachments/assets/b08ff23d-1402-4db8-a064-caaca0916416" />
+
+<img width="940" height="679" alt="image" src="https://github.com/user-attachments/assets/798d11c9-f93b-4bb8-9556-68a8f8a66507" />
+
+<img width="450" height="760" alt="image" src="https://github.com/user-attachments/assets/c128c222-987c-4547-8432-1e1161a67779" />
+
+<img width="937" height="317" alt="image" src="https://github.com/user-attachments/assets/d50cc708-dae4-4312-b273-10c1a94382c3" />
+
+
 
 ---
 
